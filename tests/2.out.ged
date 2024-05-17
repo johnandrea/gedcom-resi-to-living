@@ -1,0 +1,35 @@
+﻿0 HEAD
+1 SOUR ManualEdited
+1 SUBM @S1@
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @S1@ SUBM
+1 NAME John Andrea
+0 @I1@ INDI
+1 NAME Sam /Spade/
+2 GIVN Sam
+2 SURN Spade
+1 SEX M
+1 RESI
+2 DATE 1 MAY 2024
+2 PLAC London
+2 ADDR home
+1 EVEN
+2 TYPE Living
+2 DATE 1 MAY 2024
+2 PLAC London
+2 ADDR home
+1 RESI
+2 PLAC Paris
+2 NOTE line1
+2 NOTE line2
+1 EVEN
+2 TYPE Living
+2 PLAC Paris
+2 NOTE line1
+2 NOTE line2
+1 BIRT
+2 PLAC London
+0 TRLR
